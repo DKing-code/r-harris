@@ -59,8 +59,7 @@ function Contact() {
               <h2 className="md:text-6xl font-normal text-2xl text-blue-500 leading-snug">Contact Info</h2>
               <div>
                 <p className="font-light md:text-lg text-slate-400">Mail: lawrichardharris@gmail.com</p>
-{/*                 <p className="font-light md:text-lg text-slate-400">Phone: (917) 793 0837 */}
-                </p>
+{/*                 <p className="font-light md:text-lg text-slate-400">Phone: (917) 793 0837 </p> */}
 
               </div>
             </div>
