@@ -7,7 +7,7 @@ function Footer() {
         {/* contacts and emails */}
         <div className='md:flex justify-between md:text-xl text-lg text-center'>
           <div>
-            <p className=''>Phone : (917) 793 0837</p>
+{/*             <p className=''>Phone : (917) 793 0837</p> */}
           </div>
           <div>
             <p>Email : lawrichardharris@gmail.com</p>
